@@ -1,5 +1,6 @@
 Copyright (c) 2025, yzdnn (https://github.com/yzdnn),
-Copyright (c) 2014-2022, 平木敬太郎 (http://hp.vector.co.jp/authors/VA000874/), 自家製フォント工房 (http://jikasei.me/font/kh-dotfont/),
+Copyright (c) 1990-2015, Keitarou Hiraki, Font Silo. (http://hp.vector.co.jp/authors/VA000874/),
+Copyright (c) 2014-2022, 自家製フォント工房 (http://jikasei.me/font/kh-dotfont/),
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
