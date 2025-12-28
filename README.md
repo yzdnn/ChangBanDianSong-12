@@ -2,13 +2,17 @@
   
 「长坂点宋 12」是基于 「[KHドットフォントシリーズ](http://jikasei.me/font/kh-dotfont/)」中的「KHドット道玄坂12」补足简体字和部分繁体字的 12px 点阵粗宋体，适合在复古风格的游戏和招牌中使用。
 
+<img width="1080" height="1440" alt="宣传图竖版" src="https://github.com/user-attachments/assets/c5f05289-4ba0-4ede-90d7-4168d9d2dbe6" />
+
 **～修改内容～**
 
-与原字体相比，本字体补全了《通用规范汉字表》字符集中的所有汉字与GB/T 12345收录的繁体字，并调整了部分汉字字形使之更符合中文习惯；此外，还补全了汉语拼音与注音符号。
-
-顺便一提，为了降低辨识难度，部分竖画较多的汉字（如衄、嗣、騙）的处理方式和原字体也有所不同。
-
-<img width="640" height="480" alt="Comparison" src="https://github.com/user-attachments/assets/72112361-a772-444b-9874-a12e4c1df3bc" />
+<img width="540" height="720" alt="1" src="https://github.com/user-attachments/assets/8a47a62b-b4e7-42d0-88e2-ef075c696d5d" />
+<img width="540" height="720" alt="2" src="https://github.com/user-attachments/assets/0b246d76-365e-4131-8df9-0040fb3caa36" />
+<img width="540" height="720" alt="3" src="https://github.com/user-attachments/assets/8bcf3681-e0b9-45b9-9e22-4741c92e9dcd" />
+<img width="540" height="720" alt="4" src="https://github.com/user-attachments/assets/e05e099c-6b94-413f-8df4-e1eca9b59854" />
+<img width="540" height="720" alt="5" src="https://github.com/user-attachments/assets/d6ab7c70-1058-474c-90b9-79c350e1966b" />
+<img width="540" height="720" alt="6" src="https://github.com/user-attachments/assets/1d4cac0a-cca5-4993-89fb-faceed0dd980" />
+<img width="540" height="720" alt="7" src="https://github.com/user-attachments/assets/10c4ed19-285e-4436-aaab-85d02b95a30d" />
 
 **～缺字、错字反馈～**
 
@@ -58,6 +62,6 @@ A、请看秘籍（？）↓
 
 **～联络作者～**
 
-bilibili：yzdnn
+bilibili/猫啃网/小红书：yzdnn
 
 QQ号：2035714850
