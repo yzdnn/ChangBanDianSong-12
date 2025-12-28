@@ -1,8 +1,8 @@
+<img width="960" height="656" alt="宣传图" src="https://github.com/user-attachments/assets/d28ece2d-db6f-4913-97af-9a826b642b04" />
+
 **～项目概述～**
   
 「长坂点宋 12」是基于 「[KHドットフォントシリーズ](http://jikasei.me/font/kh-dotfont/)」中的「KHドット道玄坂12」补足简体字和部分繁体字的 12px 点阵粗宋体，适合在复古风格的游戏和招牌中使用。
-
-<img width="1080" height="1440" alt="宣传图竖版" src="https://github.com/user-attachments/assets/c5f05289-4ba0-4ede-90d7-4168d9d2dbe6" />
 
 **～修改内容～**
 
