@@ -7,7 +7,7 @@
 **～修改内容～**
 
 <img width="540" height="720" alt="1" src="https://github.com/user-attachments/assets/8a47a62b-b4e7-42d0-88e2-ef075c696d5d" />
-<img width="540" height="720" alt="2" src="https://github.com/user-attachments/assets/0b246d76-365e-4131-8df9-0040fb3caa36" />
+<img width="540" height="720" alt="2" src="https://github.com/user-attachments/assets/c0ae19c4-568d-497d-95ec-1d7556c1534a" />
 <img width="540" height="720" alt="3" src="https://github.com/user-attachments/assets/8bcf3681-e0b9-45b9-9e22-4741c92e9dcd" />
 <img width="540" height="720" alt="4" src="https://github.com/user-attachments/assets/e05e099c-6b94-413f-8df4-e1eca9b59854" />
 <img width="540" height="720" alt="5" src="https://github.com/user-attachments/assets/d6ab7c70-1058-474c-90b9-79c350e1966b" />
